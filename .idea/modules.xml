@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ByteTCC-sample.iml" filepath="$PROJECT_DIR$/.idea/ByteTCC-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-sample/sample-provider/sample-provider.iml" filepath="$PROJECT_DIR$/springcloud-sample/sample-provider/sample-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-sample/sample-consumer/springcloud-sample-consumer-0.5.x.iml" filepath="$PROJECT_DIR$/springcloud-sample/sample-consumer/springcloud-sample-consumer-0.5.x.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-sample/sample-eureka-server/springcloud-sample-eureka-0.5.x.iml" filepath="$PROJECT_DIR$/springcloud-sample/sample-eureka-server/springcloud-sample-eureka-0.5.x.iml" />
+    </modules>
+  </component>
+</project>
