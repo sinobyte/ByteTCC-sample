@@ -29,6 +29,7 @@ public class SimplifiedController implements ITransferService {
 	@Transactional
 	public void transfer(@RequestParam String sourceAcctId, @RequestParam String targetAcctId, @RequestParam double amount) {
 		this.acctService.decreaseAmount(sourceAcctId, amount);
+
 		this.increaseAmount(targetAcctId, amount);
 	}
 
